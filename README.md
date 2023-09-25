@@ -1,4 +1,4 @@
 # Script-Generator
-The goal of this project is to use LangChain to build a automatic script generator for short videos.
+The goal of this project is to use OpenAI to build a automatic script generator for short videos.
 
-Technologies: Python, LLMs, LangChain, Stremalit
+Technologies: Python, LLMs, LangChain, OpenAI, Streamlit
